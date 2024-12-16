@@ -1,0 +1,9 @@
+{
+	"name": "adf-nyc-taxi-project",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ca6371c-19be-4ce2-8a76-d3d42897e533",
+		"tenantId": "8238b665-21df-4f8c-9be1-0f62503acf2d"
+	}
+}
